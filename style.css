@@ -1,0 +1,27 @@
+* {
+    text-align: center;
+}
+
+body {
+    color:gray;
+    background-color: bisque;
+    margin-top: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.recipe-link {
+    display: block;
+    margin-top: 10px;
+}
+
+h1 {
+    margin-bottom: 50px;
+}
+
+.images {
+    margin: 0 auto;
+}
+
+.space {
+    height: 50px;
+}
